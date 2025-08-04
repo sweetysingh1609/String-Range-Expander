@@ -2,7 +2,7 @@
 
 This is a Python utility that takes a string input representing numbers and numeric ranges (like `"1-3,5,7-9"`) and expands it into a full list of integers.
 
-The project is structured in progressive stages as outlined in the assignment. All 7 stages have been implemented with a focus on clean design, configurability, and robust handling of edge cases.
+
 
 ---
 
